@@ -32,8 +32,8 @@ Ready to try it out? Follow these steps to run the app on your local machine:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/arthur-interview/sware.git
-   cd sware```
-
+   cd sware
+```
 
 2. **Install Dependencies**:
 ```bash
@@ -53,7 +53,7 @@ Add a Task: Type a task into the input field and hit "Add Task".
 
 Delete a Task: Click the "Delete" button next to any task.
 
-Complete a Task: Check the box next to a task to mark it as done (or uncheck to undo).
+Complete a Task: Check the box next to a task to mark it as done.
 
 The app starts with 5 mocked tasks, so you can play around with the features right away.
 Contributing
